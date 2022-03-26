@@ -1,0 +1,1001 @@
+Serial No.,GRE Score,TOEFL Score,SOP,LOR,CGPA,Research,Gender,Age,Course,College Name
+1,282,101,3.0,3.0,8.0,0,0,23,3,Duke University
+2,310,103,3.0,2.0,7.0,0,0,21,1,University of Florida
+3,295,110,1.0,3.0,9.0,1,1,18,6,California Institute of Technology
+4,303,99,4.0,3.0,7.0,0,1,19,4,Princeton University
+5,277,115,3.0,3.0,10.0,0,0,27,0,Brown University
+6,295,110,2.0,2.0,9.0,0,1,18,5,Stevens Institute of Technology
+7,263,110,1.0,4.0,8.0,1,1,18,4,Stevens Institute of Technology
+8,261,109,5.0,4.0,10.0,0,0,27,4,California Institute of Technology
+9,293,98,1.0,5.0,9.0,1,0,26,6,California Institute of Technology
+10,274,105,2.0,1.0,10.0,1,1,19,6,Stanford University
+11,269,112,4.0,3.0,10.0,0,0,19,1,Princeton University
+12,268,114,4.0,1.0,10.0,1,0,25,2,University of Florida
+13,270,105,4.0,1.0,9.0,0,0,20,2,University of Florida
+14,317,118,2.0,5.0,7.0,0,0,27,6,Harvard University
+15,295,113,5.0,4.0,8.0,1,1,24,2,Massachusetts Institute of Technology
+16,294,109,1.0,3.0,10.0,0,1,18,5,California Institute of Technology
+17,303,101,2.0,2.0,8.0,1,0,22,7,Yale University
+18,290,114,1.0,2.0,7.0,0,0,25,1,Harvard University
+19,297,106,1.0,2.0,8.0,0,0,23,4,Massachusetts Institute of Technology
+20,296,116,2.0,1.0,7.0,0,0,26,1,Columbia University
+21,293,101,1.0,1.0,7.0,0,1,20,7,University of Florida
+22,292,111,4.0,4.0,10.0,0,0,23,6,Columbia University
+23,293,106,3.0,1.0,9.0,0,1,21,5,Stanford University
+24,304,102,3.0,2.0,9.0,1,0,26,2,University of Delaware
+25,296,104,1.0,4.0,7.0,0,0,23,7,The University of Arizona
+26,270,106,1.0,2.0,9.0,0,1,25,1,Princeton University
+27,302,102,4.0,3.0,9.0,1,0,26,1,California Institute of Technology
+28,284,112,3.0,2.0,9.0,1,1,26,0,Stanford University
+29,323,110,4.0,4.0,9.0,0,1,25,5,California Institute of Technology
+30,335,110,5.0,2.0,8.0,0,0,25,2,Yale University
+31,324,119,1.0,1.0,8.0,1,0,21,4,Stanford University
+32,264,119,5.0,5.0,10.0,0,0,21,1,California Institute of Technology
+33,315,109,4.0,5.0,10.0,0,0,25,1,California Institute of Technology
+34,292,111,5.0,4.0,9.0,0,0,19,7,Duke University
+35,339,117,4.0,5.0,9.0,0,1,19,6,Princeton University
+36,279,110,2.0,3.0,10.0,1,1,24,2,The University of Arizona
+37,321,112,5.0,5.0,8.0,0,0,22,3,University of Wisconsin-Madison
+38,265,102,5.0,4.0,9.0,0,0,19,7,University of Wisconsin-Madison
+39,331,114,5.0,1.0,7.0,1,0,23,5,The University of Chicago
+40,319,103,3.0,2.0,9.0,1,1,23,1,Stanford University
+41,278,119,1.0,4.0,8.0,0,0,19,1,University of Wisconsin-Madison
+42,263,112,2.0,4.0,10.0,1,0,20,4,Brown University
+43,286,100,1.0,2.0,8.0,1,1,26,2,Stanford University
+44,275,101,5.0,2.0,10.0,0,1,22,4,The University of Arizona
+45,333,106,1.0,1.0,8.0,0,0,20,5,Columbia University
+46,305,108,1.0,2.0,10.0,1,0,25,0,University of Arkansas
+47,269,119,2.0,4.0,10.0,1,1,22,6,Yale University
+48,320,119,1.0,1.0,9.0,1,0,26,4,Brown University
+49,264,112,1.0,2.0,9.0,1,1,27,5,Stanford University
+50,303,112,1.0,2.0,9.0,0,0,22,7,California Institute of Technology
+51,320,100,1.0,5.0,9.0,1,1,24,6,Duke University
+52,326,117,3.0,4.0,8.0,1,1,22,4,Stevens Institute of Technology
+53,319,109,5.0,3.0,7.0,1,0,24,3,University of Delaware
+54,275,106,5.0,3.0,8.0,1,0,25,6,University of Arkansas
+55,269,99,3.0,4.0,7.0,1,0,18,7,Columbia University
+56,324,107,3.0,2.0,8.0,0,0,24,0,Brown University
+57,328,106,5.0,2.0,9.0,0,1,24,6,Columbia University
+58,283,117,3.0,5.0,8.0,1,0,23,3,Princeton University
+59,275,104,2.0,3.0,7.0,1,0,18,5,Stevens Institute of Technology
+60,308,118,2.0,4.0,7.0,1,1,19,2,The University of Arizona
+61,331,99,4.0,1.0,8.0,0,1,25,6,Princeton University
+62,316,105,3.0,4.0,8.0,0,0,23,0,Brown University
+63,261,119,2.0,3.0,10.0,1,1,22,2,The University of Chicago
+64,336,111,2.0,1.0,9.0,1,1,20,4,Stevens Institute of Technology
+65,320,109,3.0,3.0,7.0,0,1,27,2,Stevens Institute of Technology
+66,304,104,1.0,1.0,7.0,1,1,23,0,Stevens Institute of Technology
+67,336,105,3.0,4.0,7.0,0,0,21,0,Duke University
+68,320,116,1.0,5.0,10.0,1,1,21,7,California Institute of Technology
+69,272,115,1.0,1.0,8.0,0,1,21,5,Yale University
+70,335,104,5.0,5.0,7.0,0,1,26,2,University of Delaware
+71,264,98,2.0,3.0,9.0,0,0,22,4,Stanford University
+72,296,108,3.0,3.0,8.0,0,0,26,6,Stanford University
+73,335,116,1.0,5.0,9.0,0,0,19,0,Duke University
+74,323,112,4.0,5.0,7.0,1,0,23,4,Brown University
+75,278,107,5.0,5.0,10.0,1,1,24,1,University of Delaware
+76,271,107,4.0,1.0,7.0,0,1,23,1,Columbia University
+77,302,112,4.0,2.0,10.0,0,0,23,3,University of Delaware
+78,285,98,3.0,3.0,10.0,0,0,22,4,Columbia University
+79,305,115,2.0,2.0,10.0,0,1,19,7,University of Michigan
+80,309,114,2.0,2.0,7.0,1,1,21,6,The University of Arizona
+81,276,111,2.0,1.0,9.0,0,0,23,3,University of Delaware
+82,325,101,1.0,3.0,9.0,0,0,25,4,University of Delaware
+83,339,106,4.0,4.0,8.0,1,0,20,0,Stanford University
+84,323,100,3.0,5.0,8.0,1,1,20,1,California Institute of Technology
+85,298,98,2.0,1.0,9.0,1,0,24,3,The University of Chicago
+86,318,110,2.0,4.0,7.0,1,0,18,7,University of Michigan
+87,295,101,4.0,1.0,10.0,1,0,20,7,The University of Chicago
+88,334,99,4.0,1.0,8.0,0,0,26,1,Yale University
+89,317,100,4.0,3.0,9.0,0,1,24,5,University of Arkansas
+90,267,113,2.0,1.0,7.0,1,0,27,4,Columbia University
+91,283,104,5.0,2.0,8.0,1,0,19,3,Columbia University
+92,264,115,1.0,2.0,10.0,0,0,23,4,Brown University
+93,268,117,3.0,5.0,10.0,0,0,25,0,Columbia University
+94,285,100,4.0,1.0,8.0,0,0,26,3,Stevens Institute of Technology
+95,335,117,2.0,1.0,7.0,0,0,22,7,University of Arkansas
+96,298,117,1.0,2.0,10.0,0,1,18,3,Massachusetts Institute of Technology
+97,269,99,1.0,2.0,8.0,1,0,22,4,Duke University
+98,310,114,3.0,2.0,10.0,0,1,22,0,University of Arkansas
+99,309,117,5.0,1.0,8.0,1,0,18,3,The University of Arizona
+100,270,114,3.0,2.0,7.0,1,0,19,2,University of Delaware
+101,322,109,3.0,4.0,10.0,0,1,23,2,University of Wisconsin-Madison
+102,325,105,4.0,3.0,10.0,0,1,19,5,Stanford University
+103,287,114,4.0,2.0,10.0,0,0,25,4,Yale University
+104,321,117,3.0,2.0,10.0,0,0,22,2,Stanford University
+105,282,101,3.0,3.0,10.0,1,0,18,7,University of Wisconsin-Madison
+106,291,109,4.0,2.0,8.0,1,1,27,5,The University of Chicago
+107,336,100,4.0,1.0,10.0,0,0,23,3,University of Arkansas
+108,286,119,5.0,3.0,9.0,1,0,21,0,Stanford University
+109,289,101,5.0,5.0,9.0,0,1,23,0,Stanford University
+110,303,112,2.0,2.0,9.0,0,1,21,7,Brown University
+111,288,117,2.0,4.0,8.0,0,0,22,3,Yale University
+112,297,119,3.0,4.0,8.0,0,0,25,1,Stanford University
+113,326,98,3.0,2.0,8.0,0,1,20,6,Massachusetts Institute of Technology
+114,322,117,3.0,2.0,8.0,1,0,20,4,Stevens Institute of Technology
+115,335,101,3.0,5.0,8.0,1,0,19,6,The University of Arizona
+116,303,109,3.0,1.0,7.0,1,0,25,3,Duke University
+117,311,109,4.0,1.0,9.0,0,0,23,7,Stevens Institute of Technology
+118,303,115,5.0,3.0,9.0,1,0,19,1,Harvard University
+119,296,113,2.0,3.0,9.0,1,0,22,4,Yale University
+120,336,98,1.0,3.0,8.0,0,1,25,3,Stanford University
+121,320,103,4.0,4.0,7.0,0,0,23,5,University of Delaware
+122,296,104,2.0,1.0,7.0,0,0,18,6,University of Arkansas
+123,313,112,4.0,2.0,9.0,1,1,23,2,Yale University
+124,338,114,5.0,3.0,7.0,0,1,24,5,Massachusetts Institute of Technology
+125,289,112,2.0,1.0,7.0,0,1,20,3,Brown University
+126,261,116,1.0,4.0,10.0,1,0,22,5,Yale University
+127,309,106,2.0,2.0,9.0,0,1,18,1,Duke University
+128,269,107,2.0,1.0,10.0,1,1,22,3,Yale University
+129,315,101,3.0,1.0,8.0,1,0,19,0,The University of Chicago
+130,279,113,2.0,5.0,7.0,1,1,26,6,Princeton University
+131,269,100,3.0,5.0,9.0,1,0,21,0,Duke University
+132,307,109,4.0,4.0,7.0,0,1,21,7,University of Wisconsin-Madison
+133,298,111,2.0,2.0,9.0,1,1,24,1,Princeton University
+134,287,108,5.0,4.0,9.0,0,1,19,5,University of Delaware
+135,290,99,3.0,4.0,9.0,1,0,27,2,Stanford University
+136,324,104,4.0,3.0,10.0,1,1,24,3,University of Arkansas
+137,281,101,5.0,1.0,7.0,1,0,20,6,Brown University
+138,322,113,4.0,2.0,9.0,0,0,22,0,The University of Chicago
+139,330,119,2.0,4.0,10.0,0,1,23,4,Princeton University
+140,336,105,5.0,5.0,8.0,1,1,19,5,University of Michigan
+141,293,118,1.0,1.0,9.0,1,1,22,4,Stevens Institute of Technology
+142,319,100,5.0,2.0,9.0,1,0,26,5,University of Michigan
+143,321,104,5.0,3.0,9.0,1,1,20,0,Stevens Institute of Technology
+144,294,99,1.0,3.0,9.0,0,0,23,4,Stanford University
+145,325,101,1.0,1.0,9.0,1,1,20,0,The University of Arizona
+146,312,104,2.0,2.0,9.0,0,1,25,4,California Institute of Technology
+147,263,117,5.0,2.0,7.0,1,1,20,1,University of Arkansas
+148,320,105,3.0,4.0,9.0,1,1,27,6,The University of Chicago
+149,277,112,1.0,4.0,9.0,1,0,23,7,University of Michigan
+150,317,99,2.0,4.0,10.0,0,0,26,0,California Institute of Technology
+151,283,105,4.0,5.0,10.0,1,1,19,6,University of Arkansas
+152,284,117,5.0,5.0,7.0,0,1,24,0,Harvard University
+153,261,117,3.0,2.0,7.0,0,0,18,3,Duke University
+154,327,118,2.0,1.0,7.0,1,1,21,2,University of Florida
+155,333,119,2.0,4.0,8.0,0,1,20,4,University of Arkansas
+156,336,116,2.0,5.0,10.0,1,0,19,3,Stevens Institute of Technology
+157,264,112,2.0,3.0,9.0,0,0,24,0,University of Wisconsin-Madison
+158,333,113,2.0,5.0,7.0,1,1,18,7,Stanford University
+159,266,110,5.0,3.0,7.0,0,0,23,1,Brown University
+160,268,110,4.0,2.0,10.0,1,1,25,5,University of Michigan
+161,292,113,5.0,4.0,8.0,1,1,22,2,Brown University
+162,302,100,1.0,4.0,9.0,1,1,25,6,Stevens Institute of Technology
+163,300,112,5.0,1.0,9.0,1,1,26,7,Princeton University
+164,302,103,3.0,5.0,10.0,1,0,21,7,Duke University
+165,323,108,1.0,5.0,7.0,1,1,20,4,Brown University
+166,300,118,4.0,1.0,7.0,0,0,24,0,Stanford University
+167,301,115,4.0,1.0,9.0,0,1,21,7,Stanford University
+168,265,100,2.0,2.0,9.0,0,0,24,4,Stevens Institute of Technology
+169,328,99,2.0,5.0,8.0,1,0,25,0,Brown University
+170,280,116,4.0,3.0,10.0,0,1,18,5,University of Florida
+171,264,112,1.0,3.0,10.0,0,0,22,6,Stanford University
+172,310,111,3.0,1.0,7.0,1,0,27,6,The University of Chicago
+173,291,116,4.0,4.0,7.0,0,1,21,7,The University of Arizona
+174,286,102,4.0,4.0,7.0,1,0,18,2,University of Wisconsin-Madison
+175,331,118,5.0,3.0,9.0,0,0,21,1,University of Arkansas
+176,289,99,2.0,2.0,10.0,0,0,25,7,Stevens Institute of Technology
+177,293,113,3.0,4.0,8.0,0,1,18,7,Brown University
+178,265,101,1.0,3.0,7.0,0,1,23,5,The University of Chicago
+179,277,116,2.0,4.0,10.0,1,1,23,6,The University of Chicago
+180,311,105,2.0,4.0,10.0,1,0,22,1,California Institute of Technology
+181,285,107,2.0,5.0,9.0,1,1,18,7,Massachusetts Institute of Technology
+182,289,114,1.0,2.0,7.0,1,0,19,5,Yale University
+183,300,117,2.0,3.0,9.0,0,1,18,4,Stevens Institute of Technology
+184,327,117,3.0,5.0,8.0,1,1,21,1,University of Wisconsin-Madison
+185,312,105,3.0,3.0,10.0,0,0,19,4,Massachusetts Institute of Technology
+186,285,118,3.0,4.0,9.0,1,0,24,0,University of Michigan
+187,305,98,1.0,4.0,9.0,1,0,26,7,California Institute of Technology
+188,328,106,1.0,4.0,7.0,0,0,27,2,University of Michigan
+189,276,101,1.0,3.0,8.0,1,1,21,3,University of Delaware
+190,337,98,3.0,1.0,9.0,1,0,22,6,Yale University
+191,324,102,3.0,4.0,9.0,1,0,26,2,Yale University
+192,312,104,3.0,2.0,9.0,1,1,23,2,University of Florida
+193,327,114,4.0,4.0,10.0,0,1,19,1,Princeton University
+194,286,106,4.0,2.0,10.0,0,1,21,1,University of Florida
+195,297,104,3.0,5.0,10.0,0,0,23,5,The University of Arizona
+196,270,115,1.0,4.0,10.0,1,0,21,3,University of Delaware
+197,334,111,1.0,1.0,7.0,1,0,26,4,University of Delaware
+198,306,99,2.0,5.0,10.0,0,0,26,3,California Institute of Technology
+199,312,114,2.0,1.0,8.0,0,0,26,7,Princeton University
+200,283,100,5.0,4.0,7.0,1,0,18,1,Massachusetts Institute of Technology
+201,303,109,4.0,1.0,10.0,0,0,20,4,University of Michigan
+202,327,116,2.0,1.0,9.0,0,1,18,3,Stanford University
+203,322,114,3.0,1.0,7.0,1,1,18,1,Brown University
+204,310,106,5.0,1.0,8.0,0,1,20,5,Yale University
+205,297,98,2.0,3.0,10.0,0,0,26,5,Yale University
+206,284,108,2.0,3.0,8.0,0,1,18,7,Harvard University
+207,286,109,1.0,4.0,10.0,0,0,25,2,Duke University
+208,290,107,5.0,3.0,9.0,0,1,21,2,Stevens Institute of Technology
+209,298,117,4.0,3.0,10.0,0,0,18,6,The University of Chicago
+210,296,119,2.0,2.0,10.0,1,0,19,5,The University of Chicago
+211,288,101,1.0,1.0,8.0,1,1,27,4,Brown University
+212,327,99,1.0,2.0,9.0,0,0,22,0,California Institute of Technology
+213,306,111,1.0,3.0,8.0,1,0,26,6,Harvard University
+214,264,101,5.0,4.0,9.0,0,1,23,5,Yale University
+215,306,119,1.0,3.0,8.0,1,0,27,7,University of Arkansas
+216,325,100,4.0,2.0,10.0,0,0,19,7,University of Delaware
+217,303,114,3.0,4.0,7.0,0,0,22,0,Brown University
+218,283,102,2.0,3.0,8.0,0,0,27,7,Stevens Institute of Technology
+219,307,104,3.0,1.0,9.0,1,0,25,5,Harvard University
+220,301,113,4.0,5.0,8.0,1,1,27,5,Brown University
+221,272,114,2.0,3.0,8.0,0,0,23,1,The University of Arizona
+222,331,107,2.0,5.0,9.0,1,1,19,2,University of Michigan
+223,287,119,3.0,4.0,7.0,1,0,27,2,University of Arkansas
+224,284,113,5.0,4.0,9.0,0,0,21,4,University of Delaware
+225,332,103,2.0,4.0,9.0,1,1,18,1,Yale University
+226,323,98,3.0,4.0,9.0,1,0,27,7,The University of Arizona
+227,294,117,1.0,1.0,7.0,0,1,26,4,University of Delaware
+228,274,111,3.0,3.0,8.0,0,0,24,7,Harvard University
+229,298,99,4.0,4.0,8.0,0,1,27,7,Stevens Institute of Technology
+230,303,110,5.0,2.0,9.0,1,1,26,5,Brown University
+231,316,101,3.0,5.0,8.0,1,0,20,1,University of Arkansas
+232,263,117,4.0,1.0,9.0,1,1,25,3,Columbia University
+233,261,108,2.0,2.0,7.0,0,0,19,0,Yale University
+234,310,110,3.0,3.0,7.0,0,1,18,3,University of Florida
+235,297,114,5.0,1.0,8.0,1,0,23,2,Duke University
+236,314,109,1.0,3.0,10.0,0,0,24,0,Stevens Institute of Technology
+237,281,98,2.0,4.0,7.0,0,1,27,7,University of Florida
+238,330,118,4.0,4.0,8.0,1,0,26,0,Yale University
+239,331,98,4.0,4.0,10.0,0,0,24,2,Columbia University
+240,329,104,1.0,4.0,9.0,1,0,25,2,University of Arkansas
+241,292,100,2.0,5.0,9.0,0,1,20,7,The University of Chicago
+242,303,102,5.0,5.0,9.0,1,1,26,6,Duke University
+243,326,99,4.0,1.0,7.0,1,1,21,0,University of Arkansas
+244,327,98,5.0,2.0,8.0,1,0,26,6,Massachusetts Institute of Technology
+245,316,98,3.0,4.0,10.0,1,1,21,3,University of Florida
+246,274,102,3.0,1.0,7.0,0,1,22,7,Harvard University
+247,287,111,1.0,4.0,8.0,0,0,23,2,Princeton University
+248,283,103,5.0,2.0,7.0,1,1,27,0,University of Wisconsin-Madison
+249,292,114,1.0,1.0,9.0,1,0,25,6,University of Florida
+250,331,100,4.0,1.0,8.0,1,1,25,7,University of Florida
+251,317,115,2.0,5.0,8.0,1,0,20,5,Stanford University
+252,308,115,1.0,5.0,9.0,1,0,22,0,California Institute of Technology
+253,273,116,3.0,4.0,7.0,1,0,23,4,California Institute of Technology
+254,337,102,1.0,1.0,9.0,1,0,23,1,Princeton University
+255,306,111,4.0,3.0,7.0,0,1,21,4,Princeton University
+256,280,106,4.0,4.0,8.0,1,1,25,6,The University of Arizona
+257,328,106,1.0,1.0,9.0,0,1,20,3,California Institute of Technology
+258,318,111,1.0,1.0,8.0,0,1,24,4,University of Florida
+259,261,98,3.0,3.0,9.0,0,0,24,0,Massachusetts Institute of Technology
+260,305,116,2.0,4.0,9.0,1,1,27,1,The University of Chicago
+261,295,107,2.0,3.0,9.0,1,1,25,7,Princeton University
+262,339,107,1.0,1.0,9.0,0,0,27,5,Duke University
+263,333,101,5.0,3.0,7.0,1,1,25,1,University of Delaware
+264,263,101,2.0,3.0,9.0,1,1,23,2,Stanford University
+265,288,117,2.0,4.0,9.0,0,0,23,0,Princeton University
+266,323,99,3.0,3.0,10.0,0,1,27,5,Princeton University
+267,281,110,1.0,5.0,9.0,0,0,22,5,Brown University
+268,295,108,3.0,1.0,9.0,0,1,21,1,University of Florida
+269,327,115,3.0,2.0,9.0,0,0,27,1,University of Michigan
+270,308,104,5.0,4.0,7.0,1,0,18,5,Harvard University
+271,281,102,3.0,5.0,7.0,1,0,22,7,Duke University
+272,321,111,4.0,1.0,8.0,0,0,20,3,Stevens Institute of Technology
+273,289,102,3.0,5.0,10.0,0,1,21,3,Columbia University
+274,330,115,3.0,4.0,9.0,0,1,23,6,Princeton University
+275,293,109,5.0,1.0,8.0,1,0,21,3,Stevens Institute of Technology
+276,309,109,3.0,3.0,10.0,1,1,25,2,Massachusetts Institute of Technology
+277,274,108,3.0,3.0,7.0,1,1,21,3,Massachusetts Institute of Technology
+278,327,105,5.0,5.0,10.0,1,1,27,0,University of Wisconsin-Madison
+279,331,105,3.0,5.0,10.0,0,1,20,3,Duke University
+280,334,119,4.0,2.0,10.0,1,0,24,2,California Institute of Technology
+281,339,102,2.0,2.0,7.0,1,0,19,6,Massachusetts Institute of Technology
+282,270,110,4.0,3.0,10.0,1,1,24,2,University of Wisconsin-Madison
+283,275,103,5.0,3.0,7.0,0,0,20,4,University of Arkansas
+284,315,119,1.0,3.0,9.0,0,0,20,7,Brown University
+285,335,115,1.0,3.0,8.0,1,0,26,7,University of Wisconsin-Madison
+286,315,101,4.0,2.0,8.0,0,0,27,2,California Institute of Technology
+287,283,109,2.0,1.0,9.0,1,1,24,0,Harvard University
+288,268,111,4.0,4.0,9.0,0,0,18,4,The University of Chicago
+289,268,110,2.0,2.0,7.0,0,0,20,5,University of Michigan
+290,321,107,2.0,5.0,9.0,0,0,24,0,University of Wisconsin-Madison
+291,309,105,5.0,3.0,9.0,0,1,21,1,Stanford University
+292,307,112,5.0,4.0,7.0,1,0,24,2,The University of Arizona
+293,328,105,2.0,5.0,9.0,1,0,26,0,University of Wisconsin-Madison
+294,284,100,4.0,4.0,8.0,0,0,25,5,Princeton University
+295,317,109,4.0,4.0,10.0,1,0,18,0,Duke University
+296,267,102,5.0,2.0,7.0,1,1,25,2,The University of Arizona
+297,339,118,5.0,4.0,10.0,0,1,24,7,The University of Arizona
+298,304,104,5.0,5.0,10.0,0,0,26,6,University of Wisconsin-Madison
+299,266,117,1.0,4.0,7.0,0,1,21,7,Columbia University
+300,337,98,5.0,5.0,7.0,0,1,18,4,Stanford University
+301,268,114,2.0,5.0,10.0,1,0,21,5,Brown University
+302,269,113,1.0,1.0,8.0,1,0,18,5,Princeton University
+303,266,102,3.0,2.0,8.0,1,1,27,6,Harvard University
+304,331,105,2.0,2.0,7.0,1,1,18,4,University of Delaware
+305,312,106,3.0,3.0,9.0,1,1,26,3,University of Delaware
+306,339,107,3.0,2.0,8.0,0,1,22,4,Brown University
+307,273,113,2.0,4.0,7.0,1,1,26,5,Brown University
+308,276,110,4.0,1.0,10.0,1,1,18,4,Columbia University
+309,284,111,5.0,2.0,8.0,0,1,18,5,The University of Chicago
+310,315,111,1.0,5.0,10.0,1,1,27,5,Stevens Institute of Technology
+311,290,104,2.0,2.0,8.0,1,0,21,6,Harvard University
+312,280,103,3.0,4.0,10.0,0,1,26,2,The University of Arizona
+313,284,101,5.0,3.0,7.0,0,0,18,6,California Institute of Technology
+314,290,111,1.0,1.0,10.0,1,1,18,6,Massachusetts Institute of Technology
+315,302,116,3.0,5.0,9.0,0,1,18,1,University of Delaware
+316,299,100,3.0,1.0,10.0,0,0,26,7,University of Wisconsin-Madison
+317,279,100,4.0,1.0,9.0,1,0,20,2,Duke University
+318,305,113,5.0,2.0,7.0,0,0,22,6,California Institute of Technology
+319,297,112,4.0,4.0,10.0,1,1,26,5,Yale University
+320,305,102,4.0,3.0,7.0,1,1,24,4,The University of Chicago
+321,279,111,1.0,4.0,9.0,0,0,21,5,University of Wisconsin-Madison
+322,298,110,2.0,1.0,7.0,1,0,25,4,University of Florida
+323,283,106,1.0,2.0,7.0,1,1,20,4,The University of Chicago
+324,326,115,3.0,1.0,10.0,1,1,26,6,Brown University
+325,330,106,5.0,5.0,10.0,0,0,24,4,Harvard University
+326,274,98,1.0,4.0,10.0,0,0,24,4,Massachusetts Institute of Technology
+327,326,119,5.0,3.0,8.0,0,0,18,4,Columbia University
+328,284,108,1.0,5.0,9.0,1,1,27,1,University of Michigan
+329,273,117,5.0,4.0,8.0,0,1,18,6,Massachusetts Institute of Technology
+330,295,113,3.0,4.0,8.0,0,1,22,3,Stanford University
+331,262,99,1.0,1.0,7.0,1,0,20,1,Yale University
+332,269,111,3.0,5.0,8.0,0,1,19,7,Stanford University
+333,310,99,5.0,4.0,8.0,1,1,20,1,Duke University
+334,269,103,2.0,1.0,9.0,1,1,19,0,The University of Arizona
+335,281,114,1.0,5.0,7.0,0,0,27,2,Harvard University
+336,317,104,3.0,2.0,8.0,0,1,18,4,The University of Chicago
+337,301,109,5.0,2.0,8.0,0,0,26,1,The University of Chicago
+338,296,119,2.0,1.0,7.0,0,0,22,6,Stanford University
+339,284,113,3.0,4.0,10.0,0,1,20,3,Brown University
+340,330,103,2.0,4.0,10.0,0,1,19,7,University of Michigan
+341,280,105,2.0,4.0,9.0,1,1,18,3,University of Wisconsin-Madison
+342,313,115,2.0,5.0,9.0,1,0,22,2,The University of Arizona
+343,328,110,1.0,5.0,7.0,1,0,19,0,Princeton University
+344,330,118,4.0,1.0,10.0,1,1,25,0,Columbia University
+345,298,105,5.0,1.0,9.0,1,1,26,7,Princeton University
+346,333,101,3.0,2.0,7.0,1,0,19,0,California Institute of Technology
+347,323,102,1.0,2.0,9.0,1,0,22,3,University of Wisconsin-Madison
+348,265,101,3.0,2.0,8.0,0,0,22,2,Princeton University
+349,336,111,1.0,3.0,7.0,0,0,19,7,Princeton University
+350,329,111,1.0,5.0,10.0,0,1,20,0,Columbia University
+351,327,108,5.0,1.0,10.0,0,1,21,5,University of Arkansas
+352,334,98,2.0,2.0,9.0,0,0,26,3,Columbia University
+353,279,106,2.0,2.0,10.0,0,0,27,4,The University of Chicago
+354,273,105,2.0,3.0,8.0,0,1,23,4,Stevens Institute of Technology
+355,313,113,1.0,1.0,9.0,0,0,21,5,Harvard University
+356,304,105,5.0,3.0,10.0,0,1,20,5,University of Arkansas
+357,293,118,4.0,3.0,9.0,0,0,23,3,Stanford University
+358,261,116,5.0,2.0,7.0,1,1,27,4,University of Arkansas
+359,278,98,4.0,1.0,10.0,1,1,27,7,Duke University
+360,281,109,4.0,4.0,10.0,0,1,23,3,Stevens Institute of Technology
+361,268,109,4.0,1.0,10.0,0,1,22,5,California Institute of Technology
+362,312,113,2.0,5.0,8.0,1,1,25,7,University of Delaware
+363,276,111,3.0,4.0,7.0,1,1,18,3,University of Wisconsin-Madison
+364,297,106,2.0,5.0,9.0,1,0,26,5,Stanford University
+365,263,108,1.0,4.0,8.0,0,1,18,3,Brown University
+366,301,118,1.0,4.0,8.0,1,0,22,0,Stanford University
+367,271,104,1.0,1.0,10.0,1,0,19,7,Stevens Institute of Technology
+368,304,100,5.0,2.0,7.0,0,0,21,7,Princeton University
+369,273,112,5.0,3.0,9.0,0,0,18,5,Massachusetts Institute of Technology
+370,322,115,4.0,5.0,8.0,0,0,20,2,Massachusetts Institute of Technology
+371,289,109,1.0,3.0,9.0,0,1,19,6,Princeton University
+372,310,102,1.0,2.0,8.0,1,0,26,0,University of Delaware
+373,306,100,2.0,3.0,10.0,0,1,22,5,The University of Arizona
+374,303,118,5.0,1.0,7.0,0,1,21,7,Columbia University
+375,337,111,2.0,1.0,8.0,1,1,21,7,Stevens Institute of Technology
+376,333,106,2.0,5.0,9.0,1,1,27,5,University of Florida
+377,270,114,3.0,2.0,8.0,1,0,18,7,The University of Arizona
+378,330,104,3.0,5.0,7.0,0,0,25,7,Stanford University
+379,276,116,1.0,1.0,10.0,0,0,18,6,University of Wisconsin-Madison
+380,262,114,1.0,5.0,9.0,1,0,22,7,Brown University
+381,322,102,4.0,2.0,10.0,0,1,24,2,University of Arkansas
+382,277,116,5.0,5.0,7.0,1,0,26,1,University of Wisconsin-Madison
+383,301,107,2.0,2.0,8.0,1,1,25,3,The University of Chicago
+384,279,111,3.0,2.0,8.0,1,0,24,7,Massachusetts Institute of Technology
+385,324,118,2.0,3.0,10.0,1,1,26,1,Stevens Institute of Technology
+386,319,116,3.0,3.0,8.0,1,0,20,2,University of Florida
+387,275,101,1.0,5.0,9.0,0,0,18,1,Massachusetts Institute of Technology
+388,325,109,1.0,4.0,9.0,1,0,25,5,University of Florida
+389,275,98,3.0,2.0,10.0,1,1,22,3,Massachusetts Institute of Technology
+390,296,103,3.0,4.0,7.0,0,1,27,0,University of Arkansas
+391,304,119,3.0,2.0,7.0,0,0,22,5,Massachusetts Institute of Technology
+392,303,109,3.0,5.0,7.0,1,0,26,7,University of Delaware
+393,312,117,2.0,4.0,8.0,0,0,18,3,Duke University
+394,331,103,3.0,4.0,7.0,0,1,27,0,University of Florida
+395,297,110,3.0,2.0,9.0,0,1,23,3,University of Michigan
+396,300,109,1.0,4.0,7.0,1,1,21,3,Duke University
+397,302,103,5.0,2.0,8.0,1,0,27,0,Yale University
+398,264,107,2.0,2.0,8.0,1,1,18,1,Brown University
+399,265,105,4.0,4.0,9.0,1,0,25,7,California Institute of Technology
+400,294,115,4.0,3.0,9.0,0,1,21,6,Stevens Institute of Technology
+401,307,115,5.0,4.0,10.0,1,0,22,5,Duke University
+402,338,113,5.0,5.0,8.0,1,1,23,7,Duke University
+403,318,119,2.0,3.0,9.0,1,1,25,0,University of Florida
+404,263,107,1.0,5.0,10.0,0,0,19,7,University of Florida
+405,283,110,1.0,2.0,9.0,0,1,23,0,Stanford University
+406,289,110,1.0,2.0,10.0,1,0,22,2,Princeton University
+407,296,98,1.0,2.0,7.0,0,0,22,3,California Institute of Technology
+408,289,104,3.0,1.0,7.0,0,0,20,6,Stevens Institute of Technology
+409,295,105,3.0,2.0,7.0,0,0,23,4,Stevens Institute of Technology
+410,301,108,1.0,3.0,8.0,0,0,20,0,Princeton University
+411,311,103,2.0,2.0,10.0,0,0,25,7,Princeton University
+412,298,105,1.0,1.0,8.0,1,0,27,1,Brown University
+413,295,98,3.0,2.0,10.0,1,1,26,7,University of Wisconsin-Madison
+414,293,108,5.0,3.0,10.0,0,0,25,6,Stanford University
+415,280,100,1.0,2.0,10.0,1,0,19,4,University of Florida
+416,303,117,5.0,1.0,7.0,0,1,18,1,University of Arkansas
+417,296,106,2.0,4.0,9.0,1,1,26,3,University of Arkansas
+418,330,117,2.0,4.0,7.0,0,0,18,7,Stevens Institute of Technology
+419,296,118,2.0,2.0,10.0,0,1,23,2,The University of Arizona
+420,306,105,2.0,5.0,8.0,0,0,20,3,The University of Chicago
+421,307,109,2.0,1.0,10.0,1,1,27,1,California Institute of Technology
+422,322,103,3.0,1.0,9.0,0,1,20,7,The University of Arizona
+423,338,113,1.0,5.0,8.0,0,0,26,6,Columbia University
+424,310,110,5.0,4.0,10.0,0,0,25,6,University of Wisconsin-Madison
+425,296,104,1.0,4.0,7.0,0,0,25,6,Columbia University
+426,293,106,2.0,4.0,8.0,0,0,22,6,Brown University
+427,338,106,2.0,3.0,7.0,1,0,25,5,California Institute of Technology
+428,287,115,1.0,2.0,7.0,0,1,26,7,Columbia University
+429,301,107,5.0,4.0,10.0,1,1,21,6,Brown University
+430,288,116,4.0,4.0,10.0,1,0,22,6,Massachusetts Institute of Technology
+431,309,112,1.0,4.0,10.0,1,0,19,4,The University of Chicago
+432,291,113,2.0,1.0,10.0,0,0,19,4,University of Florida
+433,336,114,3.0,3.0,7.0,1,0,21,4,The University of Arizona
+434,277,101,3.0,4.0,10.0,0,1,26,7,The University of Chicago
+435,275,116,3.0,3.0,8.0,0,0,18,4,Columbia University
+436,301,114,3.0,3.0,9.0,1,1,24,7,The University of Chicago
+437,317,100,2.0,1.0,10.0,1,0,24,5,The University of Arizona
+438,267,106,4.0,4.0,9.0,1,0,21,1,University of Wisconsin-Madison
+439,309,99,1.0,2.0,7.0,0,1,25,7,The University of Chicago
+440,288,111,4.0,2.0,7.0,1,0,23,4,Columbia University
+441,286,105,3.0,3.0,9.0,1,0,22,2,Yale University
+442,300,106,2.0,4.0,8.0,0,0,25,6,Stanford University
+443,281,111,3.0,5.0,9.0,1,0,19,1,University of Delaware
+444,273,104,4.0,4.0,7.0,0,0,24,5,University of Michigan
+445,266,110,1.0,1.0,7.0,1,0,27,5,Columbia University
+446,264,117,2.0,4.0,7.0,1,0,27,5,University of Michigan
+447,274,113,2.0,3.0,9.0,0,0,19,6,Massachusetts Institute of Technology
+448,281,102,2.0,4.0,8.0,1,1,19,7,Columbia University
+449,289,100,4.0,4.0,10.0,1,0,25,2,Duke University
+450,331,108,4.0,3.0,10.0,0,1,20,3,Yale University
+451,316,113,5.0,3.0,7.0,0,0,18,5,Duke University
+452,325,101,2.0,2.0,9.0,1,0,22,5,The University of Arizona
+453,296,105,1.0,4.0,7.0,1,0,21,6,Princeton University
+454,283,112,1.0,1.0,8.0,0,1,25,7,Stevens Institute of Technology
+455,337,118,3.0,2.0,9.0,1,0,20,0,Yale University
+456,267,114,2.0,1.0,9.0,1,1,24,0,Yale University
+457,278,98,3.0,5.0,7.0,0,0,27,3,University of Wisconsin-Madison
+458,291,99,4.0,5.0,8.0,0,0,20,6,University of Delaware
+459,285,101,3.0,2.0,10.0,1,0,22,6,University of Florida
+460,333,109,1.0,5.0,7.0,0,1,25,6,The University of Chicago
+461,266,106,5.0,2.0,9.0,0,1,27,5,Stevens Institute of Technology
+462,314,100,1.0,1.0,7.0,0,0,21,0,California Institute of Technology
+463,298,110,2.0,3.0,7.0,0,0,21,5,Harvard University
+464,327,111,4.0,2.0,9.0,0,0,22,1,Stanford University
+465,279,107,2.0,1.0,8.0,0,0,18,3,The University of Arizona
+466,268,115,4.0,1.0,8.0,0,1,27,4,Massachusetts Institute of Technology
+467,281,115,3.0,2.0,9.0,0,0,19,5,University of Florida
+468,297,117,5.0,3.0,7.0,1,1,26,0,Duke University
+469,308,118,1.0,2.0,10.0,0,0,21,3,University of Delaware
+470,333,111,3.0,1.0,8.0,1,1,22,3,Massachusetts Institute of Technology
+471,336,115,5.0,4.0,8.0,0,0,22,3,University of Delaware
+472,332,109,5.0,1.0,10.0,0,1,22,7,University of Arkansas
+473,291,106,2.0,5.0,8.0,0,0,19,5,Stanford University
+474,325,113,3.0,1.0,7.0,1,0,23,0,Princeton University
+475,287,118,1.0,2.0,9.0,0,1,24,2,University of Wisconsin-Madison
+476,339,108,5.0,1.0,10.0,0,1,25,5,University of Michigan
+477,318,111,4.0,3.0,8.0,0,0,20,0,Brown University
+478,277,112,2.0,5.0,8.0,0,0,20,4,University of Michigan
+479,296,112,2.0,5.0,7.0,0,0,26,0,Harvard University
+480,262,108,5.0,5.0,9.0,1,0,21,1,Harvard University
+481,265,118,5.0,5.0,10.0,0,1,19,7,University of Arkansas
+482,330,98,4.0,5.0,8.0,0,1,23,5,Duke University
+483,280,118,5.0,4.0,7.0,1,0,27,5,Columbia University
+484,321,115,1.0,1.0,8.0,0,1,27,2,California Institute of Technology
+485,268,100,2.0,4.0,8.0,0,1,22,0,Stanford University
+486,276,114,4.0,4.0,10.0,1,0,25,4,Columbia University
+487,300,107,3.0,4.0,7.0,0,1,24,7,University of Arkansas
+488,331,108,4.0,3.0,8.0,1,1,20,1,Massachusetts Institute of Technology
+489,263,119,3.0,1.0,8.0,1,0,22,3,University of Wisconsin-Madison
+490,325,109,1.0,2.0,7.0,0,1,21,4,Harvard University
+491,313,106,4.0,5.0,9.0,0,0,23,2,California Institute of Technology
+492,263,111,4.0,4.0,7.0,0,0,24,2,University of Arkansas
+493,335,110,2.0,5.0,7.0,0,0,26,2,University of Michigan
+494,303,119,1.0,5.0,8.0,0,1,22,0,University of Florida
+495,307,100,4.0,3.0,10.0,0,0,23,3,University of Florida
+496,289,110,5.0,1.0,9.0,0,1,21,6,Columbia University
+497,313,98,4.0,5.0,7.0,0,1,19,1,University of Wisconsin-Madison
+498,318,116,5.0,3.0,7.0,1,1,18,2,Harvard University
+499,279,110,4.0,3.0,9.0,1,1,25,2,Yale University
+500,325,118,4.0,4.0,7.0,0,1,21,7,Stevens Institute of Technology
+501,316,118,5.0,3.0,7.0,1,0,23,5,Stevens Institute of Technology
+502,338,106,1.0,1.0,7.0,1,1,21,6,California Institute of Technology
+503,300,115,5.0,1.0,10.0,1,0,20,1,Yale University
+504,306,115,4.0,2.0,9.0,0,0,22,1,Duke University
+505,330,113,5.0,1.0,10.0,1,0,18,6,Duke University
+506,288,110,4.0,1.0,7.0,0,1,21,0,Yale University
+507,283,115,5.0,1.0,10.0,0,0,18,1,Stevens Institute of Technology
+508,311,119,4.0,3.0,10.0,1,1,23,5,Princeton University
+509,270,102,2.0,1.0,9.0,0,0,18,1,University of Florida
+510,337,114,5.0,5.0,9.0,0,0,26,1,Harvard University
+511,284,115,2.0,3.0,8.0,0,1,21,2,Stevens Institute of Technology
+512,325,105,3.0,4.0,7.0,1,1,18,4,Stanford University
+513,276,104,2.0,3.0,10.0,0,0,20,1,Stanford University
+514,275,114,2.0,3.0,9.0,0,0,18,0,University of Florida
+515,273,114,3.0,4.0,10.0,1,1,22,0,University of Florida
+516,316,109,5.0,2.0,9.0,1,1,27,0,Massachusetts Institute of Technology
+517,273,111,2.0,1.0,9.0,0,1,19,1,University of Arkansas
+518,312,99,5.0,3.0,9.0,0,1,23,1,The University of Chicago
+519,309,117,3.0,3.0,7.0,1,0,20,2,Yale University
+520,320,111,3.0,2.0,9.0,1,1,18,4,Columbia University
+521,307,118,4.0,4.0,10.0,1,1,25,2,Massachusetts Institute of Technology
+522,272,102,1.0,5.0,9.0,1,0,27,5,Yale University
+523,267,102,3.0,2.0,7.0,1,1,25,5,Duke University
+524,329,109,5.0,2.0,7.0,0,0,21,3,Columbia University
+525,291,106,2.0,5.0,8.0,0,1,18,3,California Institute of Technology
+526,328,110,2.0,3.0,8.0,0,1,21,3,Stanford University
+527,282,106,5.0,5.0,10.0,0,1,24,7,University of Florida
+528,281,104,5.0,2.0,8.0,1,0,27,4,Brown University
+529,326,103,1.0,5.0,7.0,1,0,18,0,Duke University
+530,322,115,4.0,3.0,10.0,0,0,19,1,University of Wisconsin-Madison
+531,275,109,4.0,2.0,9.0,0,1,19,1,California Institute of Technology
+532,330,102,1.0,2.0,7.0,1,1,25,4,Harvard University
+533,279,114,5.0,2.0,8.0,0,1,26,7,University of Delaware
+534,261,119,3.0,3.0,8.0,0,0,20,6,University of Florida
+535,301,111,4.0,3.0,7.0,0,0,20,1,University of Wisconsin-Madison
+536,328,118,4.0,1.0,9.0,0,0,19,7,University of Delaware
+537,336,118,1.0,1.0,7.0,1,1,19,3,The University of Arizona
+538,280,103,1.0,5.0,7.0,1,1,18,7,Brown University
+539,291,109,3.0,5.0,10.0,1,0,24,5,California Institute of Technology
+540,263,106,3.0,4.0,7.0,1,1,23,6,University of Michigan
+541,274,118,2.0,1.0,7.0,0,1,22,1,The University of Chicago
+542,269,111,2.0,1.0,10.0,0,0,26,1,Massachusetts Institute of Technology
+543,278,114,1.0,2.0,8.0,1,0,24,6,Yale University
+544,316,107,1.0,1.0,8.0,0,1,20,1,University of Delaware
+545,287,114,3.0,2.0,10.0,0,1,25,3,Princeton University
+546,288,103,4.0,4.0,10.0,0,0,24,1,Duke University
+547,319,119,4.0,5.0,9.0,0,1,18,2,Brown University
+548,337,111,1.0,3.0,7.0,0,1,21,6,Stanford University
+549,308,106,1.0,4.0,7.0,1,0,27,3,Massachusetts Institute of Technology
+550,280,101,1.0,1.0,10.0,1,0,27,6,Stevens Institute of Technology
+551,282,100,3.0,2.0,9.0,1,0,26,1,University of Delaware
+552,323,100,1.0,5.0,7.0,0,1,18,5,Stanford University
+553,334,117,5.0,3.0,8.0,0,1,26,7,Massachusetts Institute of Technology
+554,317,103,1.0,5.0,8.0,0,0,20,5,Massachusetts Institute of Technology
+555,330,115,3.0,3.0,7.0,0,1,20,4,California Institute of Technology
+556,338,113,4.0,2.0,9.0,0,1,20,0,The University of Arizona
+557,272,103,3.0,1.0,10.0,1,0,22,0,University of Delaware
+558,301,117,5.0,5.0,9.0,1,0,23,1,Massachusetts Institute of Technology
+559,284,101,2.0,1.0,9.0,0,1,27,7,Massachusetts Institute of Technology
+560,338,111,1.0,1.0,8.0,0,0,21,0,Princeton University
+561,270,115,2.0,3.0,10.0,1,1,21,5,University of Delaware
+562,316,111,3.0,4.0,8.0,1,1,24,5,Massachusetts Institute of Technology
+563,294,106,2.0,4.0,10.0,0,1,25,6,The University of Arizona
+564,267,105,5.0,5.0,7.0,1,1,18,0,Columbia University
+565,334,104,4.0,5.0,8.0,0,1,21,6,Stanford University
+566,285,115,1.0,2.0,10.0,0,1,18,5,Princeton University
+567,280,109,1.0,1.0,9.0,1,1,24,7,University of Arkansas
+568,313,116,1.0,5.0,8.0,0,0,18,3,Columbia University
+569,336,116,1.0,1.0,7.0,1,0,23,4,Stanford University
+570,326,103,1.0,5.0,7.0,0,1,22,3,University of Delaware
+571,304,112,2.0,4.0,10.0,0,1,27,4,Stevens Institute of Technology
+572,278,107,4.0,5.0,8.0,1,0,23,7,University of Arkansas
+573,302,118,4.0,1.0,8.0,1,1,24,7,The University of Chicago
+574,282,108,3.0,5.0,9.0,1,0,21,7,Stevens Institute of Technology
+575,289,98,2.0,3.0,9.0,0,0,27,3,Duke University
+576,334,111,4.0,4.0,8.0,1,0,22,7,The University of Chicago
+577,267,100,1.0,2.0,7.0,1,1,23,1,University of Arkansas
+578,328,99,2.0,1.0,9.0,0,0,23,5,University of Wisconsin-Madison
+579,332,112,4.0,1.0,10.0,1,0,27,1,Duke University
+580,273,111,3.0,5.0,9.0,1,1,21,1,University of Michigan
+581,293,113,4.0,4.0,9.0,0,1,19,1,Duke University
+582,262,108,3.0,3.0,10.0,0,0,23,5,Princeton University
+583,334,106,3.0,3.0,8.0,1,0,24,7,University of Arkansas
+584,264,118,3.0,1.0,7.0,1,0,18,5,California Institute of Technology
+585,298,115,3.0,3.0,9.0,0,0,22,2,Yale University
+586,267,105,1.0,5.0,9.0,1,1,27,3,The University of Arizona
+587,261,103,2.0,5.0,7.0,0,0,22,0,California Institute of Technology
+588,285,118,1.0,1.0,8.0,0,1,24,6,University of Michigan
+589,338,111,5.0,5.0,7.0,0,0,27,5,Massachusetts Institute of Technology
+590,271,109,3.0,2.0,8.0,1,0,26,6,University of Arkansas
+591,262,115,2.0,5.0,10.0,0,1,26,7,Massachusetts Institute of Technology
+592,308,100,5.0,4.0,8.0,0,1,22,2,Brown University
+593,312,114,1.0,1.0,9.0,0,0,25,1,Massachusetts Institute of Technology
+594,292,119,4.0,4.0,9.0,0,1,23,4,Harvard University
+595,318,98,3.0,1.0,7.0,1,1,22,5,Princeton University
+596,310,107,4.0,5.0,9.0,0,1,18,6,The University of Arizona
+597,284,112,3.0,1.0,9.0,0,0,27,1,University of Arkansas
+598,267,111,1.0,2.0,7.0,1,0,26,5,University of Michigan
+599,305,116,1.0,3.0,9.0,1,0,19,4,Yale University
+600,295,103,3.0,4.0,9.0,1,0,24,3,University of Wisconsin-Madison
+601,299,117,4.0,1.0,10.0,0,0,23,2,University of Arkansas
+602,281,113,4.0,3.0,7.0,0,0,19,4,University of Wisconsin-Madison
+603,265,107,2.0,5.0,7.0,1,0,21,2,Brown University
+604,330,100,2.0,1.0,7.0,1,0,27,7,The University of Chicago
+605,302,103,3.0,1.0,7.0,1,0,20,3,Stevens Institute of Technology
+606,279,117,3.0,3.0,10.0,0,0,22,4,Stevens Institute of Technology
+607,274,109,4.0,4.0,7.0,1,1,22,1,University of Arkansas
+608,283,107,5.0,3.0,9.0,1,0,19,2,University of Delaware
+609,338,106,1.0,5.0,8.0,1,0,24,7,Yale University
+610,264,114,5.0,2.0,7.0,0,0,23,3,University of Michigan
+611,276,118,3.0,4.0,10.0,0,0,23,4,Massachusetts Institute of Technology
+612,305,112,1.0,5.0,8.0,1,0,19,7,Brown University
+613,334,107,1.0,5.0,8.0,1,0,24,7,Princeton University
+614,281,101,5.0,5.0,10.0,1,1,26,5,Stanford University
+615,271,98,5.0,4.0,7.0,1,1,22,0,Stanford University
+616,319,118,3.0,3.0,9.0,0,1,18,3,Brown University
+617,265,113,2.0,1.0,10.0,0,0,21,0,Brown University
+618,337,100,4.0,1.0,7.0,0,0,23,2,Princeton University
+619,296,114,3.0,3.0,9.0,1,1,24,0,Stevens Institute of Technology
+620,283,101,1.0,4.0,8.0,1,0,24,5,University of Florida
+621,265,103,4.0,1.0,9.0,0,0,22,7,University of Michigan
+622,282,109,2.0,5.0,8.0,1,0,25,1,University of Michigan
+623,313,105,4.0,2.0,8.0,0,0,24,4,Stanford University
+624,294,103,2.0,4.0,9.0,0,1,25,0,California Institute of Technology
+625,329,101,4.0,4.0,7.0,0,0,20,3,University of Florida
+626,309,100,1.0,4.0,9.0,1,1,26,4,Duke University
+627,273,110,5.0,1.0,7.0,0,1,18,5,University of Wisconsin-Madison
+628,284,102,2.0,4.0,7.0,1,0,26,0,Harvard University
+629,291,98,5.0,5.0,8.0,0,1,20,4,Stanford University
+630,300,110,3.0,3.0,8.0,1,1,18,5,University of Florida
+631,330,118,2.0,1.0,8.0,0,0,26,7,Columbia University
+632,307,114,3.0,2.0,10.0,1,1,25,6,The University of Chicago
+633,301,113,2.0,2.0,10.0,0,0,22,2,California Institute of Technology
+634,304,106,4.0,3.0,10.0,1,0,24,0,Princeton University
+635,337,103,2.0,2.0,9.0,0,1,20,2,Stevens Institute of Technology
+636,316,98,5.0,1.0,7.0,0,1,18,3,California Institute of Technology
+637,287,109,1.0,1.0,8.0,1,0,21,5,The University of Arizona
+638,328,100,2.0,3.0,7.0,0,0,19,5,Duke University
+639,283,111,3.0,4.0,9.0,1,0,19,3,University of Delaware
+640,262,117,1.0,3.0,9.0,0,1,27,3,California Institute of Technology
+641,319,110,1.0,4.0,7.0,1,0,22,3,Massachusetts Institute of Technology
+642,262,100,5.0,2.0,10.0,1,1,26,7,The University of Arizona
+643,316,109,4.0,3.0,9.0,1,1,22,5,The University of Arizona
+644,304,118,1.0,3.0,9.0,0,0,25,2,Princeton University
+645,272,115,4.0,3.0,9.0,1,1,22,6,California Institute of Technology
+646,268,100,4.0,3.0,8.0,1,0,21,4,Brown University
+647,288,100,2.0,5.0,9.0,1,0,25,3,California Institute of Technology
+648,334,116,5.0,3.0,8.0,0,0,27,5,Massachusetts Institute of Technology
+649,300,107,4.0,4.0,7.0,1,1,22,5,California Institute of Technology
+650,288,112,1.0,5.0,8.0,1,1,27,1,The University of Arizona
+651,266,102,5.0,5.0,8.0,1,1,22,6,Columbia University
+652,335,106,2.0,1.0,8.0,1,0,18,0,Stevens Institute of Technology
+653,336,116,2.0,2.0,8.0,0,0,19,5,Harvard University
+654,325,99,4.0,1.0,7.0,0,0,21,5,Princeton University
+655,337,100,5.0,2.0,8.0,1,1,26,1,Princeton University
+656,281,118,2.0,3.0,7.0,0,1,21,1,Columbia University
+657,270,101,4.0,5.0,9.0,1,1,21,1,Duke University
+658,267,98,5.0,4.0,7.0,0,0,27,0,University of Florida
+659,287,99,2.0,2.0,7.0,1,1,25,1,Yale University
+660,263,110,3.0,1.0,10.0,0,0,25,5,The University of Arizona
+661,298,104,2.0,3.0,10.0,0,0,27,1,University of Florida
+662,307,119,2.0,5.0,8.0,0,1,24,5,The University of Arizona
+663,287,111,4.0,4.0,7.0,1,1,27,3,Massachusetts Institute of Technology
+664,279,117,2.0,1.0,9.0,1,0,24,3,Harvard University
+665,310,102,3.0,4.0,8.0,0,1,20,3,Stevens Institute of Technology
+666,338,101,2.0,3.0,8.0,0,0,26,1,Stevens Institute of Technology
+667,330,108,3.0,1.0,10.0,1,1,25,1,University of Arkansas
+668,303,112,1.0,2.0,7.0,0,1,25,7,The University of Arizona
+669,290,102,4.0,3.0,9.0,1,1,19,4,University of Wisconsin-Madison
+670,285,99,4.0,5.0,10.0,0,1,18,1,Yale University
+671,294,113,1.0,1.0,10.0,0,1,21,4,Stanford University
+672,285,111,5.0,5.0,8.0,1,0,26,7,University of Wisconsin-Madison
+673,264,113,2.0,4.0,9.0,1,1,18,6,Massachusetts Institute of Technology
+674,314,98,4.0,4.0,10.0,1,1,26,5,Massachusetts Institute of Technology
+675,266,110,2.0,1.0,8.0,1,1,25,4,Stevens Institute of Technology
+676,338,113,1.0,5.0,10.0,0,0,26,1,Duke University
+677,270,102,5.0,4.0,7.0,1,1,25,6,California Institute of Technology
+678,336,110,5.0,3.0,7.0,0,0,20,6,Princeton University
+679,337,118,5.0,4.0,9.0,0,1,20,3,Yale University
+680,316,99,1.0,3.0,8.0,1,1,25,7,Brown University
+681,262,113,4.0,2.0,10.0,1,0,27,1,Princeton University
+682,267,119,2.0,4.0,7.0,1,0,19,3,Harvard University
+683,304,118,1.0,4.0,8.0,1,0,24,4,Columbia University
+684,338,108,5.0,3.0,7.0,1,0,25,3,Princeton University
+685,281,106,4.0,1.0,8.0,0,0,25,5,Yale University
+686,336,101,3.0,3.0,8.0,0,1,22,1,Columbia University
+687,271,110,1.0,2.0,10.0,0,1,23,4,Yale University
+688,288,115,4.0,2.0,9.0,1,0,21,7,University of Michigan
+689,299,111,4.0,5.0,7.0,0,1,27,2,Duke University
+690,269,108,5.0,4.0,9.0,0,1,26,1,Stanford University
+691,331,118,2.0,2.0,9.0,0,1,20,3,Duke University
+692,276,98,1.0,5.0,10.0,1,1,25,2,University of Arkansas
+693,324,117,2.0,1.0,7.0,1,1,25,7,University of Wisconsin-Madison
+694,267,117,1.0,2.0,10.0,1,0,25,5,University of Wisconsin-Madison
+695,306,103,2.0,4.0,10.0,0,1,27,0,Yale University
+696,304,99,3.0,5.0,10.0,0,1,24,6,Duke University
+697,309,103,4.0,4.0,10.0,1,1,24,3,California Institute of Technology
+698,296,100,3.0,1.0,8.0,0,1,27,4,Princeton University
+699,297,119,2.0,4.0,7.0,0,0,26,6,Stevens Institute of Technology
+700,306,118,2.0,3.0,9.0,1,0,20,1,Brown University
+701,308,112,5.0,5.0,10.0,1,0,27,0,Columbia University
+702,317,115,1.0,2.0,7.0,0,0,23,0,Yale University
+703,291,100,1.0,2.0,8.0,1,1,27,4,University of Wisconsin-Madison
+704,266,117,1.0,3.0,8.0,1,1,24,1,Yale University
+705,275,106,1.0,4.0,8.0,1,1,24,2,Princeton University
+706,297,116,4.0,5.0,10.0,0,0,21,0,Yale University
+707,289,112,2.0,2.0,8.0,0,0,23,2,University of Wisconsin-Madison
+708,299,103,5.0,2.0,8.0,0,0,25,6,University of Arkansas
+709,266,119,5.0,4.0,10.0,1,1,27,4,Stanford University
+710,300,119,5.0,2.0,7.0,0,1,18,1,Princeton University
+711,263,112,1.0,3.0,9.0,0,0,23,1,Stanford University
+712,328,108,3.0,4.0,9.0,0,1,20,1,University of Delaware
+713,311,112,3.0,5.0,8.0,1,0,23,0,The University of Chicago
+714,293,110,5.0,4.0,9.0,0,1,23,0,The University of Arizona
+715,329,113,2.0,1.0,9.0,1,1,25,2,The University of Arizona
+716,285,110,2.0,3.0,10.0,0,0,22,6,California Institute of Technology
+717,337,105,2.0,1.0,10.0,0,1,26,7,Massachusetts Institute of Technology
+718,265,117,3.0,2.0,9.0,0,1,25,7,The University of Arizona
+719,283,110,2.0,1.0,9.0,1,0,25,0,Princeton University
+720,263,116,3.0,3.0,9.0,0,1,23,6,Massachusetts Institute of Technology
+721,299,109,2.0,2.0,7.0,1,0,27,1,Stevens Institute of Technology
+722,276,118,3.0,4.0,9.0,0,0,18,5,Stevens Institute of Technology
+723,310,101,4.0,5.0,9.0,0,1,20,1,University of Florida
+724,321,102,1.0,2.0,7.0,1,0,19,2,Brown University
+725,289,116,1.0,5.0,10.0,0,0,20,3,The University of Arizona
+726,319,105,4.0,1.0,8.0,0,0,19,5,Stanford University
+727,295,119,4.0,5.0,8.0,1,0,20,6,Harvard University
+728,289,104,4.0,1.0,7.0,0,0,21,6,Duke University
+729,279,98,4.0,4.0,7.0,1,1,20,1,University of Delaware
+730,281,115,4.0,3.0,10.0,0,0,24,1,University of Florida
+731,304,119,3.0,3.0,9.0,0,0,22,3,Harvard University
+732,330,105,4.0,4.0,7.0,0,1,21,5,California Institute of Technology
+733,306,112,3.0,3.0,10.0,1,0,24,3,Duke University
+734,306,117,3.0,1.0,10.0,1,1,26,7,Stanford University
+735,268,108,3.0,2.0,8.0,0,1,22,0,University of Wisconsin-Madison
+736,306,99,3.0,3.0,8.0,1,0,18,0,Duke University
+737,304,107,2.0,2.0,10.0,0,1,26,0,Yale University
+738,261,119,5.0,1.0,8.0,0,0,22,6,California Institute of Technology
+739,292,105,5.0,4.0,8.0,1,1,24,2,Harvard University
+740,293,100,2.0,4.0,10.0,0,0,19,0,Brown University
+741,283,118,1.0,2.0,7.0,0,1,18,7,Stanford University
+742,298,102,4.0,1.0,7.0,1,1,20,5,The University of Arizona
+743,327,119,1.0,1.0,10.0,1,1,21,1,University of Arkansas
+744,293,116,4.0,4.0,7.0,1,1,25,2,Stevens Institute of Technology
+745,293,106,1.0,4.0,8.0,1,1,21,0,Harvard University
+746,261,111,5.0,1.0,8.0,0,1,24,1,Yale University
+747,283,118,3.0,5.0,8.0,1,1,20,3,Yale University
+748,262,117,4.0,4.0,8.0,1,0,19,3,California Institute of Technology
+749,306,115,5.0,1.0,8.0,0,0,18,0,Columbia University
+750,323,111,2.0,3.0,10.0,1,0,21,2,The University of Arizona
+751,310,119,1.0,4.0,8.0,1,1,27,4,Duke University
+752,339,117,2.0,5.0,8.0,0,1,20,6,Columbia University
+753,317,119,2.0,1.0,7.0,0,0,18,3,Princeton University
+754,336,112,5.0,3.0,7.0,0,0,21,4,Duke University
+755,320,103,4.0,4.0,8.0,1,0,19,1,Harvard University
+756,317,116,5.0,3.0,7.0,0,0,23,4,University of Arkansas
+757,299,98,5.0,1.0,8.0,1,1,19,1,Stanford University
+758,261,108,1.0,3.0,7.0,1,1,27,1,Yale University
+759,315,118,5.0,1.0,9.0,0,0,27,7,Harvard University
+760,334,113,5.0,3.0,9.0,1,1,24,6,Stanford University
+761,324,99,1.0,2.0,7.0,1,1,19,1,California Institute of Technology
+762,325,105,1.0,1.0,8.0,1,1,25,4,Stevens Institute of Technology
+763,317,118,4.0,4.0,8.0,1,1,21,7,Columbia University
+764,328,113,1.0,3.0,7.0,0,0,24,2,Stevens Institute of Technology
+765,319,102,5.0,3.0,10.0,1,1,23,0,Stanford University
+766,316,104,2.0,2.0,9.0,0,0,21,4,University of Wisconsin-Madison
+767,299,105,4.0,5.0,8.0,0,1,24,1,The University of Chicago
+768,285,112,2.0,5.0,9.0,1,1,18,0,Massachusetts Institute of Technology
+769,261,117,1.0,2.0,7.0,0,0,24,4,Yale University
+770,332,119,3.0,4.0,10.0,1,0,27,0,University of Michigan
+771,268,113,5.0,4.0,7.0,1,0,24,1,Duke University
+772,313,98,2.0,1.0,9.0,1,0,20,1,University of Arkansas
+773,338,105,5.0,2.0,9.0,1,1,22,1,Princeton University
+774,336,109,1.0,3.0,8.0,0,0,24,5,University of Arkansas
+775,327,111,5.0,5.0,7.0,0,1,19,7,Brown University
+776,334,106,2.0,4.0,8.0,1,1,19,7,Stevens Institute of Technology
+777,334,99,1.0,1.0,9.0,1,1,24,4,Princeton University
+778,333,117,1.0,2.0,9.0,1,0,26,3,Stevens Institute of Technology
+779,330,114,5.0,2.0,7.0,1,1,23,5,Stevens Institute of Technology
+780,315,99,3.0,5.0,8.0,1,0,26,0,University of Delaware
+781,274,113,3.0,2.0,9.0,0,1,18,2,Harvard University
+782,325,104,2.0,3.0,9.0,1,0,25,7,Princeton University
+783,315,112,4.0,1.0,10.0,1,1,25,1,University of Wisconsin-Madison
+784,263,119,4.0,3.0,7.0,1,0,27,6,Harvard University
+785,283,114,4.0,2.0,7.0,0,1,22,3,Columbia University
+786,317,106,5.0,3.0,7.0,1,1,20,3,Stevens Institute of Technology
+787,318,108,1.0,5.0,9.0,1,0,18,4,Stanford University
+788,261,102,2.0,3.0,10.0,0,0,23,3,Harvard University
+789,307,119,4.0,4.0,9.0,1,1,25,4,University of Delaware
+790,286,109,4.0,3.0,8.0,1,0,19,3,Duke University
+791,330,105,1.0,3.0,8.0,1,0,22,5,Columbia University
+792,262,119,5.0,2.0,7.0,1,1,19,1,University of Arkansas
+793,332,115,2.0,2.0,7.0,0,1,27,2,Yale University
+794,273,104,5.0,2.0,8.0,1,0,25,2,Princeton University
+795,267,118,2.0,2.0,9.0,0,1,18,6,Massachusetts Institute of Technology
+796,288,105,2.0,5.0,9.0,0,1,27,1,The University of Arizona
+797,306,111,4.0,4.0,9.0,0,0,24,6,Massachusetts Institute of Technology
+798,266,114,1.0,3.0,7.0,1,1,20,5,University of Arkansas
+799,276,109,2.0,5.0,8.0,0,1,20,1,Princeton University
+800,278,102,4.0,3.0,8.0,1,1,18,1,University of Arkansas
+801,322,112,2.0,2.0,10.0,1,0,24,5,University of Arkansas
+802,313,114,4.0,4.0,9.0,0,0,21,6,Stevens Institute of Technology
+803,323,105,1.0,3.0,7.0,0,1,22,7,Stevens Institute of Technology
+804,324,115,5.0,1.0,9.0,1,0,22,5,California Institute of Technology
+805,284,104,3.0,3.0,7.0,0,0,27,5,University of Florida
+806,266,107,4.0,3.0,10.0,0,1,26,1,California Institute of Technology
+807,324,112,2.0,3.0,7.0,1,0,22,7,University of Arkansas
+808,289,118,4.0,2.0,7.0,0,1,21,3,University of Michigan
+809,331,102,1.0,4.0,8.0,0,0,25,3,Yale University
+810,283,110,1.0,3.0,7.0,1,1,24,4,University of Delaware
+811,280,102,3.0,2.0,10.0,0,1,26,3,Columbia University
+812,338,118,2.0,1.0,9.0,1,1,22,7,Harvard University
+813,274,98,3.0,2.0,10.0,0,1,27,1,The University of Chicago
+814,332,112,3.0,1.0,10.0,1,0,25,0,Stanford University
+815,336,119,4.0,2.0,8.0,0,0,26,6,Stanford University
+816,313,101,4.0,4.0,7.0,1,0,22,4,University of Michigan
+817,266,105,5.0,3.0,10.0,0,0,20,1,University of Florida
+818,270,115,4.0,4.0,9.0,1,0,22,7,Stanford University
+819,262,103,3.0,4.0,8.0,1,0,21,5,Brown University
+820,313,103,1.0,3.0,8.0,1,1,25,6,Yale University
+821,329,116,4.0,5.0,7.0,1,0,25,5,Columbia University
+822,262,104,3.0,2.0,7.0,0,0,23,7,Yale University
+823,306,105,2.0,1.0,10.0,0,0,25,3,The University of Arizona
+824,302,111,3.0,3.0,8.0,1,0,19,4,Duke University
+825,281,109,1.0,1.0,10.0,0,1,23,3,University of Florida
+826,306,115,1.0,2.0,10.0,0,0,19,6,University of Florida
+827,318,111,1.0,3.0,8.0,1,0,25,1,California Institute of Technology
+828,280,117,5.0,1.0,7.0,0,0,20,7,Princeton University
+829,314,108,4.0,4.0,7.0,1,0,27,2,University of Florida
+830,265,105,1.0,4.0,7.0,1,1,22,4,University of Michigan
+831,261,110,1.0,3.0,10.0,0,1,21,3,Stanford University
+832,261,119,3.0,4.0,8.0,0,1,20,2,University of Wisconsin-Madison
+833,296,104,1.0,2.0,9.0,0,0,19,2,The University of Chicago
+834,295,110,2.0,5.0,9.0,1,0,25,3,University of Michigan
+835,265,102,1.0,4.0,9.0,1,0,20,5,The University of Arizona
+836,295,108,2.0,5.0,8.0,0,0,19,2,Stanford University
+837,270,103,3.0,2.0,8.0,0,0,20,6,Columbia University
+838,302,116,1.0,2.0,7.0,1,0,20,5,Columbia University
+839,309,98,5.0,5.0,7.0,1,1,26,1,Columbia University
+840,318,109,4.0,4.0,7.0,0,0,24,1,Massachusetts Institute of Technology
+841,315,116,4.0,2.0,9.0,0,0,21,7,The University of Arizona
+842,303,101,3.0,2.0,9.0,1,1,19,0,Princeton University
+843,326,119,1.0,1.0,9.0,0,0,18,4,University of Arkansas
+844,318,99,4.0,4.0,10.0,0,0,18,4,California Institute of Technology
+845,263,104,2.0,4.0,10.0,1,0,22,6,Massachusetts Institute of Technology
+846,304,104,4.0,5.0,7.0,0,1,22,0,Yale University
+847,322,106,1.0,2.0,7.0,0,0,19,3,University of Michigan
+848,273,117,5.0,2.0,10.0,1,0,20,0,California Institute of Technology
+849,279,115,1.0,1.0,10.0,1,0,19,4,Massachusetts Institute of Technology
+850,302,108,5.0,2.0,8.0,1,1,19,6,Princeton University
+851,278,100,1.0,2.0,9.0,0,1,22,0,Brown University
+852,269,112,3.0,3.0,10.0,1,0,20,4,University of Delaware
+853,280,99,3.0,5.0,10.0,0,0,27,2,Duke University
+854,281,102,5.0,2.0,9.0,1,1,23,6,Yale University
+855,292,109,4.0,5.0,7.0,1,0,18,6,The University of Arizona
+856,269,112,2.0,1.0,7.0,1,1,24,7,The University of Arizona
+857,281,113,5.0,1.0,7.0,1,0,21,1,Brown University
+858,318,112,2.0,3.0,9.0,0,0,19,6,Brown University
+859,310,104,2.0,4.0,10.0,1,0,22,5,The University of Arizona
+860,312,103,4.0,1.0,7.0,1,0,25,2,Princeton University
+861,272,117,4.0,2.0,10.0,1,1,25,1,Brown University
+862,311,108,4.0,1.0,9.0,0,1,19,7,Yale University
+863,286,110,4.0,2.0,7.0,0,0,24,3,Princeton University
+864,288,106,1.0,5.0,7.0,0,1,23,6,Massachusetts Institute of Technology
+865,331,107,4.0,4.0,9.0,1,1,20,5,Brown University
+866,276,98,4.0,3.0,8.0,0,0,21,0,The University of Arizona
+867,291,104,1.0,4.0,9.0,1,0,22,3,Columbia University
+868,295,112,1.0,4.0,8.0,1,1,18,6,Stevens Institute of Technology
+869,323,106,3.0,2.0,9.0,1,0,19,2,Duke University
+870,298,114,4.0,3.0,9.0,0,0,27,5,University of Arkansas
+871,339,112,2.0,2.0,9.0,1,0,23,0,Duke University
+872,330,109,1.0,1.0,9.0,0,1,18,3,University of Delaware
+873,305,110,3.0,3.0,8.0,0,1,21,4,Princeton University
+874,268,104,3.0,5.0,8.0,0,0,25,6,Stanford University
+875,316,113,3.0,2.0,7.0,0,0,26,1,University of Wisconsin-Madison
+876,308,119,5.0,1.0,9.0,1,1,24,2,The University of Chicago
+877,337,104,4.0,3.0,7.0,1,1,27,5,The University of Arizona
+878,275,115,1.0,4.0,8.0,0,0,21,0,Yale University
+879,332,114,1.0,1.0,8.0,0,1,24,4,Princeton University
+880,279,98,3.0,3.0,9.0,0,1,27,1,Duke University
+881,261,101,3.0,5.0,8.0,1,0,21,5,The University of Arizona
+882,263,110,4.0,4.0,10.0,0,1,26,0,Columbia University
+883,323,115,1.0,3.0,7.0,1,1,19,6,Brown University
+884,290,111,2.0,3.0,7.0,1,0,27,4,University of Michigan
+885,328,115,4.0,2.0,8.0,0,0,22,6,Massachusetts Institute of Technology
+886,323,109,4.0,1.0,8.0,1,0,22,3,Princeton University
+887,305,113,1.0,5.0,8.0,0,0,20,7,Brown University
+888,287,104,4.0,2.0,7.0,0,0,23,0,University of Delaware
+889,316,114,5.0,3.0,10.0,1,0,26,6,California Institute of Technology
+890,318,115,1.0,1.0,9.0,0,0,24,2,Yale University
+891,281,116,4.0,4.0,9.0,0,1,19,7,University of Michigan
+892,337,113,4.0,4.0,8.0,0,0,22,0,Columbia University
+893,309,116,1.0,3.0,9.0,1,1,26,1,Yale University
+894,325,110,1.0,3.0,10.0,1,1,25,0,University of Florida
+895,315,119,1.0,3.0,10.0,1,1,25,0,University of Michigan
+896,285,119,1.0,3.0,10.0,1,1,23,2,University of Florida
+897,329,110,4.0,5.0,9.0,1,1,21,3,Harvard University
+898,267,118,5.0,4.0,10.0,1,1,24,6,Princeton University
+899,271,113,3.0,5.0,8.0,0,1,24,4,University of Arkansas
+900,316,106,1.0,2.0,10.0,0,0,24,3,Stevens Institute of Technology
+901,318,105,4.0,2.0,9.0,1,0,19,5,Stevens Institute of Technology
+902,271,105,1.0,3.0,9.0,0,1,23,6,Yale University
+903,261,103,2.0,3.0,9.0,1,1,25,3,Harvard University
+904,291,111,3.0,5.0,7.0,1,1,27,6,Princeton University
+905,262,111,5.0,4.0,8.0,1,0,24,6,Princeton University
+906,267,114,5.0,5.0,10.0,0,0,22,6,University of Delaware
+907,330,98,2.0,3.0,8.0,1,1,19,0,The University of Chicago
+908,305,111,4.0,2.0,9.0,1,0,25,4,Harvard University
+909,315,103,1.0,4.0,7.0,0,1,25,4,University of Wisconsin-Madison
+910,288,98,2.0,5.0,10.0,1,1,27,0,Columbia University
+911,298,100,1.0,1.0,10.0,1,1,27,2,Brown University
+912,277,98,3.0,3.0,10.0,0,0,25,3,Princeton University
+913,316,117,2.0,5.0,9.0,0,1,21,4,Brown University
+914,308,114,1.0,3.0,8.0,1,0,27,1,University of Florida
+915,326,111,1.0,2.0,8.0,1,1,21,0,Harvard University
+916,310,115,5.0,2.0,10.0,1,1,25,5,Yale University
+917,297,112,1.0,2.0,10.0,0,0,18,4,The University of Chicago
+918,280,110,5.0,4.0,8.0,1,0,18,3,University of Wisconsin-Madison
+919,275,99,2.0,5.0,9.0,1,1,18,1,The University of Arizona
+920,308,117,1.0,1.0,7.0,0,0,26,5,University of Arkansas
+921,303,103,1.0,1.0,9.0,1,1,21,5,Harvard University
+922,271,98,3.0,1.0,7.0,0,0,22,3,Stanford University
+923,285,100,2.0,2.0,9.0,1,0,22,2,Columbia University
+924,300,108,5.0,2.0,7.0,1,1,18,5,Brown University
+925,265,115,3.0,2.0,7.0,1,0,19,4,The University of Arizona
+926,328,113,2.0,5.0,10.0,1,0,25,0,California Institute of Technology
+927,339,108,5.0,5.0,10.0,0,1,26,1,Stanford University
+928,332,115,3.0,2.0,7.0,0,0,24,0,The University of Chicago
+929,331,117,3.0,1.0,10.0,1,0,24,0,The University of Chicago
+930,329,105,3.0,2.0,9.0,1,1,18,3,University of Delaware
+931,300,112,4.0,5.0,10.0,1,0,22,5,Columbia University
+932,294,98,5.0,2.0,8.0,0,1,21,0,Columbia University
+933,270,102,3.0,1.0,7.0,1,1,19,4,Stevens Institute of Technology
+934,281,114,4.0,1.0,7.0,0,1,20,7,University of Arkansas
+935,304,109,1.0,1.0,7.0,0,0,21,5,California Institute of Technology
+936,296,115,4.0,4.0,7.0,1,0,18,0,Duke University
+937,283,108,3.0,2.0,7.0,1,1,20,6,Stevens Institute of Technology
+938,315,105,5.0,1.0,8.0,0,0,21,7,University of Arkansas
+939,294,101,4.0,3.0,10.0,0,1,22,1,University of Wisconsin-Madison
+940,311,104,4.0,5.0,7.0,0,0,18,0,Columbia University
+941,281,106,1.0,5.0,10.0,0,0,22,7,University of Delaware
+942,338,116,5.0,5.0,7.0,0,1,21,0,The University of Arizona
+943,287,106,4.0,1.0,9.0,0,1,24,1,Brown University
+944,308,106,1.0,2.0,10.0,1,1,18,0,Massachusetts Institute of Technology
+945,307,118,5.0,4.0,8.0,1,1,22,7,Massachusetts Institute of Technology
+946,295,116,4.0,5.0,8.0,0,1,22,6,The University of Chicago
+947,266,102,3.0,1.0,7.0,1,0,18,7,The University of Arizona
+948,315,113,5.0,1.0,7.0,0,0,26,5,University of Delaware
+949,319,105,1.0,4.0,10.0,1,1,26,0,The University of Chicago
+950,291,117,5.0,5.0,10.0,0,0,22,6,Duke University
+951,278,99,5.0,2.0,10.0,1,1,21,4,Columbia University
+952,330,113,4.0,1.0,8.0,0,0,19,2,University of Michigan
+953,301,102,1.0,4.0,9.0,0,0,19,4,Yale University
+954,326,106,1.0,1.0,7.0,1,1,19,1,Harvard University
+955,315,115,1.0,5.0,7.0,1,0,18,2,University of Florida
+956,311,110,1.0,5.0,9.0,1,1,22,3,University of Michigan
+957,336,100,1.0,2.0,8.0,1,1,18,0,University of Florida
+958,300,117,4.0,4.0,8.0,1,0,26,6,Princeton University
+959,315,117,3.0,1.0,9.0,0,0,21,7,California Institute of Technology
+960,322,114,4.0,5.0,10.0,0,1,20,4,Massachusetts Institute of Technology
+961,338,119,5.0,4.0,9.0,1,0,27,7,Yale University
+962,310,103,3.0,4.0,8.0,0,1,26,2,Harvard University
+963,328,110,5.0,4.0,10.0,1,0,19,1,University of Wisconsin-Madison
+964,277,111,2.0,3.0,9.0,1,0,24,3,University of Delaware
+965,336,98,2.0,1.0,9.0,1,0,25,6,Stanford University
+966,273,109,2.0,5.0,8.0,0,1,27,6,The University of Chicago
+967,318,103,4.0,5.0,7.0,0,1,20,7,Duke University
+968,315,113,1.0,4.0,10.0,1,1,20,5,University of Michigan
+969,338,99,4.0,3.0,7.0,1,1,26,0,The University of Arizona
+970,297,99,4.0,3.0,7.0,1,0,27,2,University of Arkansas
+971,335,99,5.0,4.0,7.0,1,0,19,1,Princeton University
+972,277,99,5.0,4.0,7.0,0,0,18,4,Brown University
+973,290,119,2.0,1.0,8.0,0,1,22,4,Duke University
+974,284,98,5.0,1.0,7.0,0,0,27,3,The University of Arizona
+975,267,119,2.0,1.0,10.0,1,0,19,0,University of Delaware
+976,314,109,2.0,1.0,10.0,1,1,26,0,Stanford University
+977,267,117,3.0,2.0,9.0,1,1,22,5,University of Arkansas
+978,300,100,2.0,1.0,10.0,1,0,23,6,Brown University
+979,280,106,4.0,3.0,9.0,0,0,24,0,Duke University
+980,274,108,1.0,1.0,10.0,1,0,24,6,University of Delaware
+981,298,112,2.0,3.0,8.0,0,0,25,7,University of Wisconsin-Madison
+982,295,117,2.0,2.0,7.0,0,1,27,7,Stevens Institute of Technology
+983,338,103,1.0,2.0,8.0,1,0,20,6,Columbia University
+984,274,118,1.0,3.0,10.0,0,0,24,1,Brown University
+985,284,112,5.0,3.0,7.0,1,0,21,7,Stanford University
+986,284,100,4.0,4.0,8.0,0,0,19,6,Yale University
+987,275,106,5.0,3.0,10.0,0,1,20,3,California Institute of Technology
+988,319,104,5.0,2.0,9.0,1,1,25,1,University of Arkansas
+989,333,116,2.0,3.0,7.0,0,1,25,0,Massachusetts Institute of Technology
+990,321,102,5.0,5.0,8.0,0,0,23,7,The University of Arizona
+991,278,111,4.0,1.0,7.0,0,0,27,7,Yale University
+992,324,115,3.0,3.0,10.0,1,0,18,7,Harvard University
+993,297,114,2.0,2.0,10.0,1,0,27,0,Massachusetts Institute of Technology
+994,278,104,4.0,1.0,7.0,0,0,24,1,University of Wisconsin-Madison
+995,317,116,5.0,1.0,9.0,0,0,22,1,Stevens Institute of Technology
+996,287,117,1.0,3.0,7.0,1,0,19,7,California Institute of Technology
+997,294,101,2.0,5.0,8.0,1,1,18,1,The University of Chicago
+998,319,112,4.0,5.0,7.0,1,0,25,4,The University of Chicago
+999,301,114,3.0,2.0,9.0,1,1,25,1,University of Arkansas
+1000,290,117,5.0,1.0,9.0,0,0,18,0,The University of Arizona
