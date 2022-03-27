@@ -7,10 +7,15 @@ from tkinter.messagebox import showinfo
 from tkinter import *
 import smtplib
 import tkinter.ttk as ttk
-from tkinter import font
+import config
 
 
 class SVMModel:
+    """
+    Heart piece of the project
+    Input : User marks and other info.
+    Output: Top 3 results
+    """
     def __init__(self):
         self.X = None
         self.Y = None
@@ -32,11 +37,8 @@ class SVMModel:
     def predictMark(self, data, MAIL_ID):
         self.importData()
         self.doFatureScaling()
-
         classifier = SVC(kernel='rbf', random_state=0)
-
         classifier.fit(self.X, self.Y)
-
         testData = self.standardScaler.transform([data])
         result = []
         for i in range(0, 3):
@@ -49,34 +51,26 @@ class SVMModel:
             classifier.fit(self.X, self.Y)
             testData = self.standardScaler.transform([data])
         self.remove_college = []
-
         showinfo("Report", "Our system suggest you to join \n 1. {} \n 2. {} \n 3. {}".format(result[0],
                                                                                               result[1],
-                                                                                              result[2]),
-                 )
+                                                                                              result[2]))
         if MAIL_ID != '':
             try:
                 s = smtplib.SMTP('smtp.gmail.com', 587)
                 s.starttls()
-                s.login("cserockers01@gmail.com", "$uResh@007")
+                s.login(config.mail_id, config.password)
                 SUBJECT = "College Admission Prediction"
                 TEXT = "Our system suggest you to join \n 1. {} \n 2. {} \n 3. {}".format(result[0],
                                                                                           result[1], result[2])
                 message = 'Subject: {0}\n\n{1}'.format(SUBJECT, TEXT)
-                s.sendmail("cserockers01@gmail.com", [MAIL_ID], message)
+                s.sendmail(config.mail_id, [MAIL_ID], message)
                 s.quit()
                 print("Mail sent...!")
-
             except:
                 print("Invalid mail ID")
 
 
-"""
-UI PART
-"""
-
-
-class UI:
+class MainWindow:
     def __init__(self):
         self.top = Tk()
         self.top.geometry("500x600")
@@ -101,58 +95,71 @@ class UI:
 
         course_list = ["M.S.(Electronic)", "M.S.(Cryptography)", "M.S.(Mechanic)", "M.S.(Data structure)",
                        "M.S.(Artificial Intelligence)", "M.S.(Electrical)", "M.S.(Aeronautic)", "M.S.(Bio)"]
+
         self.course_list = StringVar(self.top)
         self.course_list.set(course_list[0])
 
-        self.form_label = Label(self.top, text="Please fill the form", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 14, 'bold')).place(x=210, y=10)
-        self.gre_label = Label(self.top, text="GRE Score", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=50)
-        self.toefl_label = Label(self.top, text="TOEFL Score", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=90)
-        self.sop_label = Label(self.top, text="SOP", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=130)
-        self.lor_label = Label(self.top, text="LOR", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=170)
-        self.cgpa_label = Label(self.top, text="CGPA", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=210)
-        self.research_label = Label(self.top, text="Research", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=250)
-        self.gender_label = Label(self.top, text="Gender", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=290)
-        self.age_label = Label(self.top, text="Age", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=340)
-        self.course_label = Label(self.top, text="Course", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=390)
-        self.email_label = Label(self.top, text="Email", fg='#ffffff', bg="#7979F5", font=("Century Gothic", 12, 'bold')).place(x=30, y=430)
+        self.form_label = Label(self.top, text="Please fill the form", fg='#ffffff', bg="#7979F5",
+                                font=("Century Gothic", 14, 'bold')).place(x=210, y=10)
+        self.gre_label = Label(self.top, text="GRE Score", fg='#ffffff', bg="#7979F5",
+                               font=("Century Gothic", 12, 'bold')).place(x=30, y=50)
+        self.toefl_label = Label(self.top, text="TOEFL Score", fg='#ffffff', bg="#7979F5",
+                                 font=("Century Gothic", 12, 'bold')).place(x=30, y=90)
+        self.sop_label = Label(self.top, text="SOP", fg='#ffffff', bg="#7979F5",
+                               font=("Century Gothic", 12, 'bold')).place(x=30, y=130)
+        self.lor_label = Label(self.top, text="LOR", fg='#ffffff', bg="#7979F5",
+                               font=("Century Gothic", 12, 'bold')).place(x=30, y=170)
+        self.cgpa_label = Label(self.top, text="CGPA", fg='#ffffff', bg="#7979F5",
+                                font=("Century Gothic", 12, 'bold')).place(x=30, y=210)
+        self.research_label = Label(self.top, text="Research", fg='#ffffff', bg="#7979F5",
+                                    font=("Century Gothic", 12, 'bold')).place(x=30, y=250)
+        self.gender_label = Label(self.top, text="Gender", fg='#ffffff', bg="#7979F5",
+                                  font=("Century Gothic", 12, 'bold')).place(x=30, y=290)
+        self.age_label = Label(self.top, text="Age", fg='#ffffff', bg="#7979F5",
+                               font=("Century Gothic", 12, 'bold')).place(x=30, y=340)
+        self.course_label = Label(self.top, text="Course", fg='#ffffff', bg="#7979F5",
+                                  font=("Century Gothic", 12, 'bold')).place(x=30, y=390)
+        self.email_label = Label(self.top, text="Email", fg='#ffffff', bg="#7979F5",
+                                 font=("Century Gothic", 12, 'bold')).place(x=30, y=430)
 
-        self.gre_input = Entry(self.top, textvariable=self.gre_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
+        self.gre_input = Entry(self.top, textvariable=self.gre_user_choice, width=20, fg='#ffffff', bg="#7979F5",
                                font=("Century Gothic", 12, 'bold')).place(x=280, y=50)
-        self.toefl_input = Entry(self.top, textvariable=self.toefl_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
-                               font=("Century Gothic", 12, 'bold')).place(x=280, y=90)
-        self.sop_input = Entry(self.top, textvariable=self.sop_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
+        self.toefl_input = Entry(self.top, textvariable=self.toefl_user_choice, width=20, fg='#ffffff', bg="#7979F5",
+                                 font=("Century Gothic", 12, 'bold')).place(x=280, y=90)
+        self.sop_input = Entry(self.top, textvariable=self.sop_user_choice, width=20, fg='#ffffff', bg="#7979F5",
                                font=("Century Gothic", 12, 'bold')).place(x=280, y=130)
-        self.lor_input = Entry(self.top, textvariable=self.lor_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
+        self.lor_input = Entry(self.top, textvariable=self.lor_user_choice, width=20, fg='#ffffff', bg="#7979F5",
                                font=("Century Gothic", 12, 'bold')).place(x=280, y=170)
-        self.cgpa_input = Entry(self.top, textvariable=self.cgpa_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
-                               font=("Century Gothic", 12, 'bold')).place(x=280, y=210)
+        self.cgpa_input = Entry(self.top, textvariable=self.cgpa_user_choice, width=20, fg='#ffffff', bg="#7979F5",
+                                font=("Century Gothic", 12, 'bold')).place(x=280, y=210)
         s = ttk.Style()  # Creating style element
         s.configure('Wild.TRadiobutton',  # First argument is the name of style. Needs to end with: .TRadiobutton
                     background='#ffffff',  # Setting background to our specified color above
                     foreground='#7979F5')  # You can define colors like this also
 
         self.research_input = Radiobutton(self.top, text="Yes", variable=self.research_user_input, bg="#7979F5",
-                    value=0, font=("Century Gothic", 12, 'bold'))
+                                          value=0, font=("Century Gothic", 12, 'bold'))
         self.research_input.place(x=290, y=250)
         self.research_input = Radiobutton(self.top, text="No", variable=self.research_user_input, bg="#7979F5",
-                    value=1, font=("Century Gothic", 12, 'bold'))
+                                          value=1, font=("Century Gothic", 12, 'bold'))
         self.research_input.place(x=370, y=250)
 
         self.gender_input = Radiobutton(self.top, text="Male", variable=self.gender_user_input, bg="#7979F5",
-                    value=0, font=("Century Gothic", 12, 'bold'))
+                                        value=0, font=("Century Gothic", 12, 'bold'))
         self.gender_input.place(x=290, y=290)
         self.gender_input = Radiobutton(self.top, text="Female", variable=self.gender_user_input, bg="#7979F5",
-                    value=1, font=("Century Gothic", 12, 'bold'))
+                                        value=1, font=("Century Gothic", 12, 'bold'))
         self.gender_input.place(x=370, y=290)
 
-        self.age_input = Entry(self.top, textvariable=self.age_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
+        self.age_input = Entry(self.top, textvariable=self.age_user_choice, width=20, fg='#ffffff', bg="#7979F5",
                                font=("Century Gothic", 12, 'bold')).place(x=280, y=340)
         self.course_input = OptionMenu(self.top, self.course_user_choice, *course_list)
         self.course_input.config(font=("Century Gothic", 10, 'bold'), fg='#ffffff', bg="#7979F5")  # set the button font
 
         self.course_input.place(x=280, y=380)
-        self.email_input = Entry(self.top, textvariable=self.email_user_choice, width = 20, fg='#ffffff', bg="#7979F5",
-                               font=("Century Gothic", 12, 'bold')).place(x=280, y=430)
+        self.email_input = Entry(self.top, textvariable=self.email_user_choice, width=20, fg='#ffffff',
+                                 bg="#7979F5",
+                                 font=("Century Gothic", 12, 'bold')).place(x=280, y=430)
 
         self.show_result = Button(self.top, text="Show Result", font=("Century Gothic", 12, 'bold'),
                                   fg='#ffffff', bg="#22FF00",
@@ -207,18 +214,18 @@ class UI:
 
         course_user_choice = self.course_user_choice.get()
         course_list = {
-            "M.S.(Electronic)": 0, "M.S.(Cryptography)": 1, "M.S.(Mechanic)" :2,
+            "M.S.(Electronic)": 0, "M.S.(Cryptography)": 1, "M.S.(Mechanic)": 2,
             "M.S.(Data structure)": 3,
-            "M.S.(Artificial Intelligence)": 4,  "M.S.(Electrical)": 5, "M.S.(Aeronautic)": 6,
+            "M.S.(Artificial Intelligence)": 4, "M.S.(Electrical)": 5, "M.S.(Aeronautic)": 6,
             "M.S.(Bio)": 7
         }
         course_user_choice = course_list[course_user_choice]
-        SVMObject = SVMModel()
-        SVMObject.predictMark(
+        svm_object = SVMModel()
+        svm_object.predictMark(
             [float(gre_user_choice), float(toefl_user_choice), float(sop_user_choice),
              float(lor_user_choice), float(cgpa_user_choice), float(research_user_input),
              float(gender_user_input), float(age_user_choice), str(course_user_choice)],
-            email_user_choice)  # 'devendra.pmu@gmail.com'
+            email_user_choice) 
         from firebase import firebase
         firebase = firebase.FirebaseApplication('https://clean-composite-251123.firebaseio.com/', None)
         data = {'GRE': gre_user_choice,
@@ -231,13 +238,19 @@ class UI:
                 'Age': course_user_choice,
                 'Email': email_user_choice
                 }
-        result = firebase.post('/clean-composite-251123', data)
-        print(result)
+        firebase.post('/clean-composite-251123', data)
 
 
-class Splash:
+class LoadingWindow:
+    """
+    Launching window
+    """
+
     def __init__(self):
-        os.system("gdown --id 13XNeFRUD-EkdvxA_lQKx2KoByrHdLeXA")
+        """
+        Download the input CSV file and launch the main window
+        """
+        os.system("gdown --id " + str(config.input_csv_file))
         self.top = Tk()
         self.top.geometry("600x200")
         self.top.configure(bg="#7979F5")  # 856ff8
@@ -252,7 +265,7 @@ class Splash:
         self.form_label = Label(self.top, text="Fetching prediction data from server....", fg='#ffffff',
                                 bg="#7979F5", font=("Century Gothic", 20, 'bold')).place(x=70, y=80)
 
-        self.top.after(4000, self.hai)
+        self.top.after(4000, self.destroy_window)
         self.top.mainloop()
 
     def center(self, win):
@@ -272,8 +285,9 @@ class Splash:
         win.geometry('{}x{}+{}+{}'.format(width, height, x, y))
         win.deiconify()
 
-    def hai(self):
+    def destroy_window(self):
         self.top.destroy()
-        UI()
+        MainWindow()
 
-Splash()
+
+LoadingWindow()

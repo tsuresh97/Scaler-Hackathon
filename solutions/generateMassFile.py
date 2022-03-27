@@ -1,6 +1,6 @@
 import pandas as pd
 import random
-
+# To generate mock input CSV
 inputDF = pd.DataFrame()   # Loading csv as pandas newRow frame
 rowsToGenerate = int(input("How many row(s) you want to generate?: "))  # Row(s) to generate
 
